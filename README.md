@@ -1,4 +1,4 @@
-# Ansible Haddop
+# Ansible Hadoop
 **Need Help?:** [Issues Tracking](https://github.com/NFLabs/ansible-hadoop/issues) | [acorbacho@nflabs.com](mailto:acorbacho@nflabs.com) <br/>
 **Contributing:** [Contribution Guide](https://github.com/NFLabs/ansible-hadoop/blob/master/CONTRIBUTING)<br/>
 **License:** [Apache 2.0](https://github.com/NFLabs/ansible-hadoop/blob/master/LICENSE)
